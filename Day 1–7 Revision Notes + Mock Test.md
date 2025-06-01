@@ -261,9 +261,4 @@ const hashed = await bcrypt.hash(req.body.password, 10);
 
 Stay consistent 💪
 
-Let me know when you're ready for:
-
-* ✅ Day 8 Topics
-* 📄 PDF Download of All Notes
-
 \#30DayInterviewCrackChallenge #100DaysOfCode
