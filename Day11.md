@@ -8,7 +8,7 @@ Practiced:
 
 Factorial of a number
 
-Fibonacci sequence
+Fibonacci sequence(dynamic programming)
 
 Reverse a string using recursion
 ---
